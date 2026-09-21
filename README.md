@@ -1,4 +1,5 @@
 # EvrenLLMApi
+Bu dökümantasyon Hasan Onur Ataç tarafından hazırlanmıştır, genel kullanım için public olarak paylaşılmıştır. Doğruluğu garanti edilmez. SSB Evren platformuna hizmetleri için teşekkür ederim. Her türlü iletişim için hasanonuratac@gmail.com
 
 Evren LLM Gateway (`https://evren-llmapi.ssyz.org.tr/v1`) için çalışan CLI + örnek kod.
 
